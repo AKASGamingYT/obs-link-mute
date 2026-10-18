@@ -1,0 +1,3 @@
+LIBRARY obs-frontend-api.dll
+EXPORTS
+obs_frontend_add_tools_menu_item
